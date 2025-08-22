@@ -1,9 +1,8 @@
-# Hi there! 👋 I'm Aykut Yamak
+# Hi there!
 
 ## 🚀 About Me
 
-I'm a passionate software developer with a focus on web development and object-oriented programming. I enjoy building practical applications that solve real-world problems and continuously expanding my technical skill set.
-
+👋 I'm Aykut Yamak. I'm a passionate software developer with a focus on web development and object-oriented programming. I enjoy building practical applications that solve real-world problems and continuously expanding my technical skill set.
 - 🔭 I'm currently working on web applications using **C#** and **ASP.NET MVC**
 - 🌱 I'm continuously learning about modern web development frameworks and best practices
 - 💼 I have experience building full-stack applications for various domains including hospitality and service industries
