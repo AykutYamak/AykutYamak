@@ -1,5 +1,3 @@
-# Hi there!
-
 ## 🚀 About Me
 
 👋 I'm Aykut Yamak. I'm a passionate software developer with a focus on web development and object-oriented programming. I enjoy building practical applications that solve real-world problems and continuously expanding my technical skill set.
