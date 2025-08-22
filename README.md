@@ -70,4 +70,3 @@ I'm always interested in collaborating on interesting projects or discussing sof
 - 💼 Check out my repositories below
 - 🌟 Feel free to star any projects you find interesting
 - 🤝 Open to collaboration and learning opportunities
-- 
